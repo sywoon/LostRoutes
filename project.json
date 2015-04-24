@@ -8,10 +8,18 @@
     "renderMode" : 0,
     "engineDir":"frameworks/cocos2d-html5",
 
-    "modules" : ["cocos2d"],
+    "modules"       : ["cocos2d", "extensions", "external"],
 
-    "jsList" : [
-        "src/resource.js",
-        "src/app.js"
+    "jsList" : [ 
+    	"src/resource.js",
+        "src/SystemConst.js",
+        "src/Bullet.js",
+        "src/Enemy.js",
+        "src/Fighter.js",
+        "src/HomeScene.js",
+        "src/HelpScene.js",
+        "src/SettingScene.js",
+        "src/GameOverScene.js",
+        "src/GamePlayScene.js"
     ]
 }
