@@ -14,4 +14,8 @@ frameworks/runtime-src/proj.win32/Backup
 frameworks/runtime-src/proj.win32/Debug.win32
 frameworks/runtime-src/proj.win32/UpgradeLog.htm
 
+frameworks/runtime-src/proj.ios_mac/build
+
+.DS_Store
+
 runtime
