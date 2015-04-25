@@ -1,5 +1,6 @@
 .settings
 .project
+.DS_Store
 
 frameworks/js-bindings
 
@@ -16,6 +17,5 @@ frameworks/runtime-src/proj.win32/UpgradeLog.htm
 
 frameworks/runtime-src/proj.ios_mac/build
 
-.DS_Store
-
 runtime
+publish
