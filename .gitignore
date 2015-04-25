@@ -1,3 +1,17 @@
 .settings
 .project
 
+frameworks/js-bindings
+
+frameworks/runtime-src/proj.android/assets
+frameworks/runtime-src/proj.android/bin
+frameworks/runtime-src/proj.android/gen
+frameworks/runtime-src/proj.android/libs
+frameworks/runtime-src/proj.android/obj
+
+
+frameworks/runtime-src/proj.win32/Backup
+frameworks/runtime-src/proj.win32/Debug.win32
+frameworks/runtime-src/proj.win32/UpgradeLog.htm
+
+runtime
